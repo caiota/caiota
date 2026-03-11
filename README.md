@@ -1,15 +1,17 @@
 # Hello, I'm Caio Menecucci! 👋
 
-💻 **Full Stack Developer | System Dev and Optimizer | Tech Enthusiast**  
+## 💻 **Full Stack Developer | System Dev and Optimizer | Tech Enthusiast**  
 
-I love **creating solutions** for everyday problems, building software, apps, and even game mods 😎
+### I love **creating solutions** for everyday problems, building software, apps, and even game mods 😎
 ---
+
+## 🚀 Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![DroidScript](https://img.shields.io/badge/DroidScript-239120?logo=javascript&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-DroidScript-239120?logo=android&logoColor=white)
 
 ### Backend & Tools
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -17,13 +19,12 @@ I love **creating solutions** for everyday problems, building software, apps, an
 ![SQL](https://img.shields.io/badge/MySql-4479A1?logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-045375?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-![Fail2Ban](https://img.shields.io/badge/Fail2Ban-FF0000?logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Fail2Ban-FF0000?logo=linux&logoColor=white)
 
 ### Data & Tools
 ![Python](https://img.shields.io/badge/Python-239120?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-4479A1?logo=php&logoColor=white)
-![Tool](https://img.shields.io/badge/Tool-Hydra-red?logo=appveyor&logoColor=white)
 ---
 
 ## 🚀 Projects & Experiences
@@ -43,3 +44,8 @@ I love **creating solutions** for everyday problems, building software, apps, an
 - **Feed Control for Twitter**: a browser extension focused on combating bots and unwanted content on the X platform (formerly Twitter) with bot identification algorithms based on specific user-controlled patterns, fully configurable.
 
   ---
+
+## 📞 Contacts
+
+[![Discord](https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=Discord)](https://discordapp.com/users/606186579983335444)
+[![Mail](https://img.shields.io/badge/email-20232A?style=for-the-badge&logo=gmail)](mailto:caiota.games@gmail.com)
