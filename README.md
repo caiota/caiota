@@ -1,3 +1,3 @@
 # Opa!
 
-+ ![JavaScript]([https://img.shields.io/badge/:badgeContent](https://img.shields.io/badge/logo-javascript-blue?logo=javascript))
++ ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
