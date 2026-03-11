@@ -1,8 +1,8 @@
 # Hello, I'm Caio Menecucci! 👋
 
-💻 **Full Stack Developer | System Dev | Tech Enthusiast**  
+💻 **Full Stack Developer | System Dev and Optimizer | Tech Enthusiast**  
 
-I love **creating solutions** for everyday problems, from systems and game mods to unique apps and optimize systems to the maximum 😎
+I love **creating solutions** for everyday problems, building software, apps, and even game mods 😎
 ---
 
 ### Frontend
@@ -28,7 +28,7 @@ I love **creating solutions** for everyday problems, from systems and game mods 
 
 ## 🚀 Projects & Experiences
 
-- Built large-scale projects for the games **League of Legends: Wild Rift** and **Heroes Evolved** (2017–2023), reaching over 20,000 users
+- Built large-scale projects for the games **League of Legends: Wild Rift** and **Heroes Evolved** (2017–2023), reaching over 100,000 users
 - Developed mods for **Minecraft PE** (2014–2016) with over **1 million downloads**
 - Completed small international projects, including integrations with tech companies like **NetDragon**
 - Managed a private server for **Grand Fantasia** (custom systems and automation) using **Python**, **C# Windows Forms**, complex **Bash scripts**, integrated with **Fail2Ban**, **HTTP requests**, and general **Linux administration**
