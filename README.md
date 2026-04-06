@@ -1,6 +1,6 @@
 # Hello, I'm Caio Menecucci! 👋
 
-## 💻 **Full Stack Developer | Systems Development and Optimization | Technology Enthusiast** | Self-Taught Developer
+## 💻 **Full Stack Developer | Systems Development and Optimization | Technology Enthusiast** | Practical Experience | Self-Taught Background
 
 ### I love **creating solutions** for everyday problems, building software, apps, and even game mods 😎
 ---
