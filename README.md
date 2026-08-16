@@ -48,4 +48,4 @@
 ## 📞 Contacts
 
 [![Discord](https://img.shields.io/badge/Discord-20232A?style=for-the-badge&logo=Discord)](https://discordapp.com/users/606186579983335444)
-[![Mail](https://img.shields.io/badge/email-20232A?style=for-the-badge&logo=gmail)](mailto:caiota.games@gmail.com)
+[![Mail](https://img.shields.io/badge/email-20232A?style=for-the-badge&logo=gmail)](mailto:thisIsaFakeEmail@gmail.com)
